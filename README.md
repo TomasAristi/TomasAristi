@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started:
 
-github_stats_card hosted with ❤ by GitHub
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
