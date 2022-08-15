@@ -1,6 +1,6 @@
 ### Hola soy Tomás Aristimuño 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api username=TomasAristi&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TomasAristi&theme=radical)
 <!--
 **TomasAristi/TomasAristi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
