@@ -1,11 +1,10 @@
 ### Hola soy Tomás Aristimuño 👋
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api username=TomasAristi&theme=radical)
 <!--
 **TomasAristi/TomasAristi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
 
 - 🔭 I’m currently working on ...
@@ -17,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
